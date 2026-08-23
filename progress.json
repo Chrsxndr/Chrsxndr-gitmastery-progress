@@ -224,5 +224,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787470058.27905,
+    "completed_at": 1787470060.849523,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
